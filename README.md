@@ -19,7 +19,7 @@
 >Requirements:
 >- [PHP 7.3+](https://php.net/releases)
 
-Install PHP Enum Objects using Composer:
+Install this package using Composer:
 
 ```bash
 composer require norse-blue/enum-objects
