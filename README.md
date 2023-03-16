@@ -1,3 +1,10 @@
+> **Warning**
+> We have decided to stop maintaining this package.
+> 
+> Consider migrating to [native Enumerations](https://www.php.net/manual/en/language.types.enumerations.php).
+>
+> Feel free to fork our code and adapt it to your needs.
+
 <div align="center">
   <h1>PHP Enum Objects</h1>
   <p align="center"> 
